@@ -1,0 +1,171 @@
+#top-nav{
+    background-color: #fcc302 !important;
+    padding: 0 10%;
+}
+
+#top-nav .navbar-nav .nav-link{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#searchbox{
+    position: relative;
+    left: 47px;
+    border: 0;
+ 
+}
+#searchbtn{
+    position: relative;
+    z-index: 99;
+    border: none;
+    border: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    #searchform{
+        margin-bottom: 30px;
+        margin-top: 20px;
+        position: relative;
+        left: -20px;
+    }
+}
+
+@media only screen and (max-width: 820px){
+    #searchform{
+        margin-bottom: 30px;
+        margin-top: 20px;
+        position: relative;
+        left: -20px;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    #searchform{
+        margin-bottom: 30px;
+        margin-top: 20px;
+        position: relative;
+        left: -20px;
+    }
+}
+
+
+
+
+
+
+
+#banner{
+    background-color:  #fcc302;
+    padding: 40px;
+}
+
+#bannertext h6{
+    padding-top: 30px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+#bannertext h1{
+    color: darkred;
+    font-size: 70px;
+}
+#bannerbtn{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    font-size: 20px;
+}
+#bannerimg{
+    padding-top: 10px;
+}
+
+@media only screen and (max-width: 1192px){
+    #bannertext h6{
+        padding-top: 20px;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width: 940px){
+    #bannerimg{
+        padding: 60px;
+    }
+}
+
+
+
+
+
+#servicetitle{
+    font-weight: bolder;
+}
+#servicetext{
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+#servicebtn{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    font-size: 20px;
+}
+#serviceimg{
+    padding: 5%;
+}
+
+@media only screen and (max-width: 1050px){
+    #serviceimg{
+        padding-top: 70px;
+    }
+}
+
+
+
+
+#dealssec{
+    padding-bottom: 30px;
+}
+#blog{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#blog-title{
+    font-weight: bolder;
+}
+#blog p{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.imgdetail{
+    padding: 15px;
+    border: 1px solid rgb(185, 185, 185);
+    border-top: 0;
+}
+#blogbtn{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    font-size: 15px;
+}
+
+
+
+
+
+#footer{
+    background-color: #343434;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
+#footer h4{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
